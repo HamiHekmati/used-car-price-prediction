@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://img.freepik.com/premium-vector/price-car-investment-isolated-concept-vector-flat-cartoon-graphic-design-illustration_133260-10335.jpg" alt="Car Price Investment">
+</p>
+
+
 ### Used Car Price Prediction
 
 This project aims to build robust machine learning models to predict the selling price of used cars based on real-world data. The workflow covers all critical stages of a data science pipeline, including data cleaning, feature engineering, exploratory data analysis (EDA), model development, and performance evaluation.
