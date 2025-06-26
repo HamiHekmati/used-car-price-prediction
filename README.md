@@ -7,7 +7,7 @@ This project aims to build robust machine learning models to predict the selling
 Predicting the price of used cars is a classic regression problem with many real-world challenges, including missing values, categorical features, skewed distributions, and the presence of outliers. In this project, multiple regression algorithms were compared, and advanced techniques such as log transformation and feature engineering were applied to improve predictive accuracy.
 
 ### Getting Started
-To run this project on your own machine, begin by cloning or downloading the repository. Make sure you have Python 3.12.3 (or a compatible Python 3.x version) installed. Install all necessary dependencies using the included requirements.txt file:
+To run this project on your own machine, begin by cloning or downloading the repository. Make sure you have Python 3.12.3 (or a compatible Python 3.x version) installed. Install all necessary dependencies using the included [requirements.txt file](https://github.com/HamiHekmati/used-car-price-prediction/blob/main/requirements.txt):
 
 ```bash
 pip install -r requirements.txt
